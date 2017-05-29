@@ -1,0 +1,4 @@
+编写一个shell脚本1.sh后，为了验证程序的正确性，可以自动测试脚本run.py
+命令行：python2 run.py
+因为本人电脑上安装了python2和python3，并且进行了重命名，方便使用。
+
