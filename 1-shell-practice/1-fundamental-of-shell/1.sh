@@ -1,4 +1,5 @@
-if [ $# != 1 ] ; then
+if [ $# != 1 ]
+then
 	echo "error"
 else
 	echo $1$1
