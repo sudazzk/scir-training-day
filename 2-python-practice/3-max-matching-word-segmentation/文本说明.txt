@@ -1,0 +1,9 @@
+build-dict.py*	；	生成字典
+eval.dat	；	已分好词的文本
+eval.py		；	测试分词结果
+eval.raw
+max-match.py*	；	最大正向匹配函数
+README.md	：	说明
+train.dat	；	分好词的语料
+vocab.bin	；	小字典  由命令python build-dict.py train.dat vocab.bin 得到
+vocab.large.bin	；	大字典  由命令gunzip vocab.large.bin.gz解压后得到
